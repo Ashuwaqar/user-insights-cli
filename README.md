@@ -91,3 +91,5 @@ Total Posts: 100
 Average Posts Per User: 10
 User with Most Completed Todos: Leanne Graham
 ```
+
+Project completed for Coding Pixel Week 1 Assignment.
